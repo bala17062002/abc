@@ -1,1 +1,2 @@
 "EPAM_2022"
+"Itca training daily upto jan 7 th" 
